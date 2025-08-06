@@ -1,12 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lucho-digi&left_text=Visitors">
 
-<h1 align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark "srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7AF&repeat=false&width=435&lines=Hi%2C+I'm+Luciano+Duarte" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F70000&repeat=false&width=435&lines=Hi%2C+I'm+Luciano+Duarte" />
-  <img alt="Descripción de la imagen" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F70000&repeat=false&width=435&lines=Hi%2C+I'm+Luciano+Duarte" />
-</picture>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7AF&repeat=false&width=435&lines=Hi%2C+I%27m+Luciano+Duarte" alt="Typing SVG" /></a>
+<br>
+---
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" alt="decoration gif" width="300px" style="margin:10px;">
 
 I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), driven by a passion for technology, design, and creating things that make an impact.  I love diving into new technologies, understanding how systems work under the hood, and coming up with creative solutions to technical challenges.
