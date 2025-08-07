@@ -12,8 +12,6 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 * 🌍 Based in Montevideo, Uruguay  
 * ✉️ Reach me at [luchi94d@gmail.com](mailto:luchi94d@gmail.com)
 
-**Always learning. Always building.**
-
 ---
 ### 🚀 Tech Stack
 
