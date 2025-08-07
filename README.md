@@ -1,7 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lucho-digi&left_text=Visitors">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7AF&repeat=false&width=435&lines=Hi%2C+I%27m+Luciano+Duarte" alt="Typing SVG" /></a>
-<br>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=30&pause=1000&color=00F7AF&repeat=false&width=435&lines=Hi%2C+I%27m+Luciano+Duarte" alt="Typing SVG" /></a>
 ---
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5eeea355389655.59822ff824b72.gif" alt="decoration gif" width="200px">
 
