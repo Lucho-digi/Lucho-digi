@@ -11,8 +11,7 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 #### Check out my [Portfolio]() to see what I’ve been working on!
 * 🌍 Based in Montevideo, Uruguay  
 * ✉️ Reach me at [luchi94d@gmail.com](mailto:luchi94d@gmail.com)
-
----
+#
 ### 🚀 Tech Stack
 
 <div align="center">
@@ -27,8 +26,7 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
+#
 #### 🌐 Web & UI
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,7 +39,7 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
----
+#
 
 #### 🛠 Tools & Platforms
 
@@ -54,7 +52,7 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 
----
+#
 
 #### 🗄 Databases
 
@@ -63,7 +61,7 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
----
+#
 #### 🧠 Others
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -72,7 +70,7 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 
 </div>
 
----
+#
 ### 🌐 Connect with me
 <div align="center">
 
