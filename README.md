@@ -73,7 +73,6 @@ I'm a Computer Science student at [UDELAR](https://udelar.edu.uy/portal/), drive
 ### 🌐 Connect with me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luciano-duarte-84535b25a/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
-<a href="" target="_blank">![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/luciano-duartee" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.lucianoduarte.me" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
